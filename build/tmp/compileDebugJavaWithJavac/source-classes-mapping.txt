@@ -1,0 +1,4 @@
+com/example/androidutilities/Jose.java
+ com.example.androidutilities.Jose
+com/example/androidutilities/BuildConfig.java
+ com.example.androidutilities.BuildConfig
